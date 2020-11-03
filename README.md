@@ -1,6 +1,6 @@
 # Site-de-Realizar-Pedidos-React-JS
 
-![Alt text](/01.jpg?raw=true "NovoSite")
+![Alt text](/01.JPG?raw=true "NovoSite")
 ![Alt text](/02.jpg?raw=true "NovoSite")
 ![Alt text](/03.jpg?raw=true "NovoSite")
 ![Alt text](/1.jpg?raw=true "NovoSite")
