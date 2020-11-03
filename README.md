@@ -1,1 +1,17 @@
 # Site-de-Realizar-Pedidos-React-JS
+
+![Alt text](/01.jpg?raw=true "NovoSite")
+![Alt text](/02.jpg?raw=true "NovoSite")
+![Alt text](/03.jpg?raw=true "NovoSite")
+![Alt text](/1.jpg?raw=true "NovoSite")
+![Alt text](/2.jpg?raw=true "NovoSite")
+![Alt text](/3.jpg?raw=true "NovoSite")
+![Alt text](/4.jpg?raw=true "NovoSite")
+![Alt text](/5.jpg?raw=true "NovoSite")
+![Alt text](/6.jpg?raw=true "NovoSite")
+![Alt text](/7.jpg?raw=true "NovoSite")
+![Alt text](/8.jpg?raw=true "NovoSite")
+![Alt text](/9.jpg?raw=true "NovoSite")
+![Alt text](/10.jpg?raw=true "NovoSite")
+![Alt text](/11.jpg?raw=true "NovoSite")
+![Alt text](/12.jpg?raw=true "NovoSite")
